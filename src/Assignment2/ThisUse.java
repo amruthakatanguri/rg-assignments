@@ -1,4 +1,4 @@
-package Assignment;
+package Assignment2;
 class Super1 {
     int num = 20;
     public void display() {

@@ -1,4 +1,4 @@
-package Assignment;
+package Assignment2;
 
 class Employeedemo {
     private int id;

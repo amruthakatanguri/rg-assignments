@@ -1,4 +1,4 @@
-package Assignment;
+package Assignment2;
 
 public class Super {
     static void show() {

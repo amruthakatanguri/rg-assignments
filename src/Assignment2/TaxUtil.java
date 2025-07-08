@@ -1,4 +1,4 @@
-package Assignment;
+package Assignment2;
 
 public class TaxUtil {
     double rate = 0.15;

@@ -1,4 +1,4 @@
-package Assignment;
+package Assignment2;
 import java.util.*;
 public class EmployeeCRUD {
     private static List<Employee> employeeList = new ArrayList<>();
